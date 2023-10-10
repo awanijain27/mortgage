@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/images/download.png</file>
+        <file>resources/images/loanmate1.png</file>
+        <file>resources/icons/add_deposit.ico</file>
+        <file>resources/icons/add_record.ico</file>
+        <file>resources/icons/remove_record.ico</file>
+        <file>resources/icons/removed_record.ico</file>
+        <file>resources/icons/view_record.ico</file>
+        <file>resources/icons/refresh.ico</file>
+        <file>resources/icons/download.ico</file>
+    </qresource>
+</RCC>
